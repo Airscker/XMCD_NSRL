@@ -1,6 +1,6 @@
 # Manual of XMCDDP
 ## Download
-Just Click [Here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Airscker/XMCD_NSRL/blob/main/XMCDDP.opx)
+Just Click [Here](https://raw.githubusercontent.com/Airscker/XMCD_NSRL/main/APP.rar)
 ## Installation
 - Just drag and drop the `.opx` file into Origin(need Origin 8.0 and upper editions) and we can find it in the list of APP (XMCDDP as below)
 
